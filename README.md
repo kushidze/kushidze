@@ -1,12 +1,15 @@
-### Hi there! My name is Kaiyrly👋
+### Hi there!👋
+![1677812225206](https://github.com/kushidze/kushidze/assets/86834835/0c300282-3c6a-4dec-a43a-7a2527aed98b)
 
-I'm Head of QA with 6+ years experience
-ex-head QA Alfabank
-ex-head QA Berekebank
-Product manager at Kazdream tech
-Scrum master at Kazdream tech
+I'm Head of QA with 6+ years experience:
 
-Currently working at Jusan Retail
+  Currently working at Jusan Retail
+  ex-head QA Alfabank
+  ex-head QA Berekebank
+  Product manager at Kazdream tech
+  Scrum master at Kazdream tech
+
+
 
 I'm QA engineer course author and lecturer at Able online academy:
 https://able.kz/#tester
