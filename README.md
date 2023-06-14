@@ -3,15 +3,17 @@
 
 I'm Head of QA with 6+ years experience:
 
-  Currently working at Jusan Retail
-  ex-head QA Alfabank
-  ex-head QA Berekebank
-  Product manager at Kazdream tech 
-  Scrum master at Kazdream tech
-
+Currently working at Jusan Retail
+ex-head QA Alfabank
+ex-head QA Berekebank
+Product manager at Kazdream tech 
+Scrum master at Kazdream tech
 
 I'm QA engineer course author and lecturer at Able online academy:
 https://able.kz/#tester
+
+My LinkedIn profile:
+https://www.linkedin.com/in/kairkuanyshpayev/overlay/background-image/
 <!--
 **kushidze/kushidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
