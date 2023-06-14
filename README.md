@@ -12,7 +12,7 @@
 
 ### Latest videos and media
 [Link to Episode with me at Kolesa podcast](https://www.youtube.com/watch?v=qgsWa4RD5OA&t=1332s&ab_channel=KolesaGroup)
-[Agile testing demo]()
+[Agile testing demo](https://github.com/kushidze/kushidze/blob/main/assets/1661620360250.pdf)
 
 ### Languages and tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira)
@@ -27,13 +27,13 @@
 ![Selenide](https://img.shields.io/badge/-Selenide-090909?style=for-the-badge&logo=selenium)
 
 ### Testing Documentation
-![Checklist]()
+[Checklist]()
 
-![TestCases]()
+[TestCases]()
 
-![TestPlans]()
+[TestPlans]()
 
-![BugReport]()
+[BugReport]()
 
 ## Follow me on
 [My telegram channel](https://t.me/agilinnotes)
