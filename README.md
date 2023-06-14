@@ -1,12 +1,8 @@
-[![Header](https://github.com/kushidze/kushidze/assets/1677812225206.jpg)](https://www.linkedin.com/in/kairkuanyshpayev/)
+[![Header](https://github.com/kushidze/kushidze/blob/main/assets/1677812225206.jpg)](https://www.linkedin.com/in/kairkuanyshpayev/)
 
 ### Hi there! I'm Kaiyrly
 
-### My expireience
-### Head of QA with 6+ years experience
-### Currently working at Jusan Retail
-### ex-Product manager
-### ex-Scrum master 
+### Head of QA with 6+ years experience, Currently working at Jusan Retail
 
 ### My CV
 [Link to my CV](https://www.linkedin.com/in/kairkuanyshpayev)
@@ -15,7 +11,6 @@
 <!-- QA course:START -->
 [Link to my course](https://able.kz/#tester)
 <!-- QA course:END -->
-
 
 ### Latest latest videos
 [Link to Episode with me at Kolesa podcast](https://www.youtube.com/watch?v=qgsWa4RD5OA&t=1332s&ab_channel=KolesaGroup)
