@@ -37,3 +37,4 @@
 
 ## Follow me on
 [My telegram channel](https://t.me/agilinnotes)
+[LinkedIn](https://www.linkedin.com/in/kairkuanyshpayev)
