@@ -16,17 +16,24 @@
 
 ### Languages and tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=androidStudio)
+![XCode](https://img.shields.io/badge/-XCode-090909?style=for-the-badge&logo=XCode)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail)
 ![ZephyrScale](https://img.shields.io/badge/-ZephyrScale-090909?style=for-the-badge&logo=jira)
 ![Selenide](https://img.shields.io/badge/-Selenide-090909?style=for-the-badge&logo=selenium)
 
 ### Testing Documentation
-[Checklist]()
-[TestCases]()
-[TestPlans]()
-[BugReport]()
+![Checklist]()
+
+![TestCases]()
+
+![TestPlans]()
+
+![BugReport]()
 
 ## Follow me on
 [My telegram channel](https://t.me/agilinnotes)
