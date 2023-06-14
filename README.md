@@ -1,8 +1,14 @@
 ### Hi there! My name is Kaiyrly👋
-I'm Head of QA with 6+ years experience 
+
+I'm Head of QA with 6+ years experience
+ex-head QA Alfabank
+ex-head QA Berekebank
+Product manager at Kazdream tech
+Scrum master at Kazdream tech
+
 Currently working at Jusan Retail
 
-I'm QA engineer course author and lecturer:
+I'm QA engineer course author and lecturer at Able online academy:
 https://able.kz/#tester
 <!--
 **kushidze/kushidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
